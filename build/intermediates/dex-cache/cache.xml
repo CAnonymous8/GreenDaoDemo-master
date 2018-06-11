@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\neil.chen\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao-api\3.2.0\c6d610abe1d75d758431c9234917a349abc0a0ac\greendao-api-3.2.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c6d610abe1d75d758431c9234917a349abc0a0ac">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\greendao-api-3.2.0_9049eb41800b7c9953071dc94de7b3b7c13308ab.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_77ebf6a8c0867ab2c54132cf50270ef8414a7c77.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_7f08304e1a249cbbf1daeb4dc1616d0a923f2e01.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_abae0bc21ebd12f86eb7b4dc4f4f4a1be093bec4.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ca34d1e356bfe207ed11f204bbafa47f8558b399.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_51005d53d6e59899efa0214caaf5f836b4bcf288.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_ed43ce203704ffed86aa9770e26f2782f0e1cef3.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_c97507c968b22b6032a6cea2677ed372ec98c947.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e592cfb58c226b9ca0915d990ab57a70cb764d88.jar" />
+    </item>
+    <item
+        jar="E:\AndriodTool\AndriodSDK\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_a62ba773c77e701bde933ef8bf5730527e59ee81.jar" />
+    </item>
+    <item
+        jar="C:\Users\neil.chen\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao\3.2.0\e70040568b2929b8e5869ad1ffca8e4386dc53bc\greendao-3.2.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e70040568b2929b8e5869ad1ffca8e4386dc53bc">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\greendao-3.2.0_5acfcc1c74e900f275f07ea89148b27d55f2cfbe.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_4f82f5f0d4b3a80983e10a76af53bacf3d9ea9ca.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_2c7d056395ce58f4d60b35312d56b18ce5db7169.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7055aac4fe3cf19d60799803292563fa06c5a298.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_e5c52b781e45400fe9274439d148c8eaa98b9d42.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7fa56434bb0d7f04e390a8dc08a2d8fa5d8a0b73.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_1f601687bd6700562991ef91eb19ce6be09921f0.jar" />
+    </item>
+    <item
+        jar="E:\android_test\GreenDaoDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\android_test\GreenDaoDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_d17a85ddb99a177981f94768e325da6663cea130.jar" />
+    </item>
+
+</items>
